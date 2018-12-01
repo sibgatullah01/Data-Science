@@ -2,7 +2,9 @@
 # coding: utf-8
 
 # In[1]:
-
+#The data is of GDP, life expectency and other economical data of different countries from 1952 to 2018 over a gap of 5 years.
+#The data is collected by the Gapminder.
+#Here we are analysing how the GDP per capita and life expectancy of different country has changed over the years.
 
 import pandas as pd
 import matplotlib.pyplot as plt
